@@ -1,2 +1,2 @@
 # Sen_cog
-Explore association between cognitive impairment and sensory impairment 
+Explore association between dual sensory impairment and cognitive function measured by MRI parameters 
